@@ -20,4 +20,5 @@ divisible(X,Y):- Y<X, Z is Y+1, divisible(X,Z).
 primo(L,P):-findall(X,(member(X,L),esPrimo(X)),P), asserta(listado(P)).
 
 %----------------------------Números Perfectos-------------------------%
+%Necesitamos Terminarlo!
 perfecto(L,P):-findall(X,(member(X,L),esPerfecto(X)),P), asserta(listado(P)).
