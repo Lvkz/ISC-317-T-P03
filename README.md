@@ -1,4 +1,4 @@
-pl_tercerparcial
+Programación Lógica - Tercer Parcial
 ================
 
-Proyecto Tercer Parial Programación Lógica. | Profesora Lisibonny Beato
+ISC | Profesora Lisibonny Beato | PUCMM
